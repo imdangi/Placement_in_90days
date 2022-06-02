@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export4.dtd">
+<en-export export-date="20220701T042831Z" application="Evernote" version="10.38.1">
+  <note>
+    <title>Day 1 -  Arrays</title>
+    <created>20220601T041941Z</created>
+    <updated>20220601T042439Z</updated>
+    <note-attributes>
+      <author>Dangi Ji</author>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note><div><span style="font-family: &quot;Helvetica Neue&quot;;"><span style="font-size: 16px;"><i><span style="color:rgb(0, 0, 0);"><span style="--en-markholder:true;"><br /></span></span></i></span></span></div><hr /><div><b><span style="font-size: 24px;">Problem 1: </span></b></div><div><br /></div><div><br /></div><div><b><span style="font-size: 24px;">Approaches : </span></b></div><ul><li style="--en-checked:false;"><div><b><span style="font-size: 16px;">Approach 1 </span></b></div></li></ul><div style="padding-left:80px;"><b><span style="font-size: 16px;"><span style="--en-markholder:true;"><br /></span></span></b></div><div style="padding-left:80px;"><b><span style="font-size: 16px;">Time Complexity : </span></b><span style="font-size: 16px;"><span style="--en-highlight:yellow;background-color: #ffef9e;">O(N)</span></span></div><div style="padding-left:80px;"><b><span style="font-size: 16px;">Space Complexity : </span></b></div><div style="padding-left:80px;"><b><span style="font-size: 16px;"><span style="--en-markholder:true;"><br /></span></span></b></div><ul><li style="--en-checked:false;"><div><b><span style="font-size: 16px;">Approach 2 </span></b></div></li></ul><div style="padding-left:80px;"><b><span style="font-size: 16px;"><span style="--en-markholder:true;"><br /></span></span></b></div><div style="padding-left:80px;"><b><span style="font-size: 16px;">Time Complexity :</span></b></div><div style="padding-left:80px;"><b><span style="font-size: 16px;">Space Complexity : </span></b></div><div style="padding-left:80px;"><b><span style="font-size: 16px;"><span style="--en-markholder:true;"><br /></span></span></b></div><ul><li style="--en-checked:false;"><div><b><span style="font-size: 16px;">Approach 3</span></b></div></li></ul><div style="padding-left:80px;"><b><span style="font-size: 16px;"><span style="--en-markholder:true;"><br /></span></span></b></div><div style="padding-left:80px;"><b><span style="font-size: 16px;">Time Complexity :</span></b></div><div style="padding-left:80px;"><b><span style="font-size: 16px;">Space Complexity : </span></b></div><div><b><span style="font-family: &quot;Helvetica Neue&quot;;"><span style="font-size: 18px;"><span style="color:rgb(0, 0, 0);"><span style="--en-markholder:true;"><br /></span></span></span></span></b></div><div><br /></div></en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>Day 2 : Arrays Part II</title>
+    <created>20220601T042504Z</created>
+    <updated>20220601T042546Z</updated>
+    <note-attributes>
+      <author>Dangi Ji</author>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note><div><span style="font-family: &quot;Helvetica Neue&quot;;"><span style="font-size: 16px;"><i><span style="color:rgb(0, 0, 0);"><span style="--en-markholder:true;"><br /></span></span></i></span></span></div><hr /><div><b><span style="font-size: 24px;">Problem 1: </span></b></div><div><br /></div><div><br /></div><div><b><span style="font-size: 24px;">Approaches : </span></b></div><ul><li style="--en-checked:false;"><div><b><span style="font-size: 16px;">Approach 1 </span></b></div></li></ul><div style="padding-left:80px;"><b><span style="font-size: 16px;"><span style="--en-markholder:true;"><br /></span></span></b></div><div style="padding-left:80px;"><b><span style="font-size: 16px;">Time Complexity : </span></b><span style="font-size: 16px;"><span style="--en-highlight:yellow;background-color: #ffef9e;">O(N)</span></span></div><div style="padding-left:80px;"><b><span style="font-size: 16px;">Space Complexity : </span></b></div><div style="padding-left:80px;"><b><span style="font-size: 16px;"><span style="--en-markholder:true;"><br /></span></span></b></div><ul><li style="--en-checked:false;"><div><b><span style="font-size: 16px;">Approach 2 </span></b></div></li></ul><div style="padding-left:80px;"><b><span style="font-size: 16px;"><span style="--en-markholder:true;"><br /></span></span></b></div><div style="padding-left:80px;"><b><span style="font-size: 16px;">Time Complexity :</span></b></div><div style="padding-left:80px;"><b><span style="font-size: 16px;">Space Complexity : </span></b></div><div style="padding-left:80px;"><b><span style="font-size: 16px;"><span style="--en-markholder:true;"><br /></span></span></b></div><ul><li style="--en-checked:false;"><div><b><span style="font-size: 16px;">Approach 3</span></b></div></li></ul><div style="padding-left:80px;"><b><span style="font-size: 16px;"><span style="--en-markholder:true;"><br /></span></span></b></div><div style="padding-left:80px;"><b><span style="font-size: 16px;">Time Complexity :</span></b></div><div style="padding-left:80px;"><b><span style="font-size: 16px;">Space Complexity : </span></b></div><div><b><span style="font-family: &quot;Helvetica Neue&quot;;"><span style="font-size: 18px;"><span style="color:rgb(0, 0, 0);"><span style="--en-markholder:true;"><br /></span></span></span></span></b></div><div><br /></div></en-note>      ]]>
+    </content>
+  </note>
+</en-export>
